@@ -10,4 +10,4 @@ Now interested in : 测序数据分析，机器学习，生物信息算法优化
 + RNA_sequencing_advances_challenges_and_opportunities(2010)
 + RNA_Seq_a_revolutionary_tool_for_transcriptomics
 
-**2018-11-26 - 2018-12-01** 
+**2018-12-06 - 2018-12-09** 
